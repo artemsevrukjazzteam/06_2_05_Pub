@@ -1,34 +1,35 @@
 ---
 ball:
-- zwischen
-- - - - wichtig
-      - FALSCH
-      - Bewegung
-      - nackt
-      - wahr
-      - wahr
-      - Klima
-      - wieder
-      - FALSCH
-      - wahr
-    - Kuchen
-    - FALSCH
-    - FALSCH
-    - nett
-    - FALSCH
-    - wahr
-    - FALSCH
-    - FALSCH
-    - schnell
-  - FALSCH
-  - Wenn
-  - Nägel
-  - Hafen
-  - wahr
-  - Band
-  - wahr
-  - wahr
-  - FALSCH
+- 8: true
+  0:
+  - - important
+    - false
+    - movement
+    - bare
+    - true
+    - true
+    - climate
+    - again
+    - false
+    - true
+  - cake
+  - false
+  - false
+  - nice
+  - false
+  - true
+  - false
+  - false
+  - quick
+  1: false
+  2: when
+  3: nails
+  4: port
+  5: true
+  6: band
+  7: true
+  9: false
+- according
 - 'true'
 - false
 - century
