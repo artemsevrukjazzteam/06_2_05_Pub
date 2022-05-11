@@ -5,7 +5,6 @@ my:
       dough:
        - eggs
        - sugar
-       - qwerrty
        - flour
       cream:
         - sugar
