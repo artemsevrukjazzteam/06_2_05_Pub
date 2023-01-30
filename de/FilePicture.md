@@ -20,7 +20,6 @@ Dillinger is a cloud-enabled, mobile-ready, offline-storage, AngularJS powered H
 
 - Geben Sie links etwas Markdown ein
 - Siehe HTML rechts
-- kkjh
 - Magie
 
 # true
